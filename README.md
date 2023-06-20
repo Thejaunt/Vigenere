@@ -1,1 +1,2 @@
-# Vigenere
+# Vigenere encoding/decoding
+
